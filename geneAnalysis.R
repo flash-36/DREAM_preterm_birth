@@ -1,5 +1,6 @@
 # Differential expression analysis comparing control vs preterm birth
 
+#Change this to where you download the files
 setwd("/Users/tianya/Desktop/CU Courses/ECBM 4060 Intro to Genomic Info/Final Project")
 library(data.table)
 DATA <- "/Users/tianya/Desktop/CU Courses/ECBM 4060 Intro to Genomic Info/Final Project"
