@@ -5,15 +5,15 @@ This repo serves as the final project of the course **ECBM4060 at Columbia Unive
 
 - Ujwal Dinesha ud2130
 - Tianya Chen tc3056
-- Prutha Parmar
-- Romane Goldmuntz
+- Prutha Parmar prp2126
+- Romane Goldmuntz rsg2163
 
-
+**Note:**Download the data files needed from synapse.org (https://www.synapse.org/#!Synapse:syn18380862/wiki/590486)
 ## geneAnalysis
 
-TODO : add explanatin of what this file does
+(Data preprocessing)
+Perform DE Analysis and co-expression analysis
 
-## preterm_birth1
+## preterm_birth
 
-
-TODO : add explanatin of what this file does
+Fitting SVM, Naives Bayes and XGBoost models and obtaining predictions
