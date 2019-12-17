@@ -8,7 +8,8 @@ This repo serves as the final project of the course **ECBM4060 at Columbia Unive
 - Prutha Parmar prp2126
 - Romane Goldmuntz rsg2163
 
-**Note:** Download the data files needed from synapse.org (https://www.synapse.org/#!Synapse:syn18380862/wiki/590486)
+**Note:** Currently the data folder contains a dummy file. We did not upload the data files due to copyright issues. You can download the data files needed from synapse.org (https://www.synapse.org/#!Synapse:syn18380862/wiki/590486)
+
 ## geneAnalysis
 
 (Data preprocessing)
